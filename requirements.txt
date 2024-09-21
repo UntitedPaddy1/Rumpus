@@ -1,2 +1,2 @@
-aiohttp==3.8.6
+aiohttp==3.10.2
 revolt.py==0.20
